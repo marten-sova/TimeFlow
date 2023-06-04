@@ -62,12 +62,3 @@ This program includes the LGPL V3 license for usage of Qt
 ## Interface 
 
 <p align="center"><img src="screenshots/interface.png"></p>
-
-## Development Docs
-
-Development documentation is available for TimeFlo, including:
-
-* [Requirements Specification](docs/requirements.md)
-* [Project Plan](docs/plan.md)
-* [Design Doc](docs/design.md)
-* [V&amp;V Report](docs/vnv.md)
