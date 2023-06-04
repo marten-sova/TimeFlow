@@ -1,0 +1,6 @@
+PyQt5
+playsound==1.2.2
+pyobjc
+pytest
+pytest-qt
+pygame
